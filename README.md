@@ -15,4 +15,5 @@ This is a basic STM32L151RB project using the GNU toolchain. It can be modified 
 4. The application will print a hello message in RTT console.
 5. Default clock configuration code will try to use a high-speed external crystal (HSE) but will fallback to internal 2.1MHz clock if that one fails.
 
-# My other projects [www.lb9mg.no]
+# My other projects
+[www.lb9mg.no](www.lb9mg.no)
