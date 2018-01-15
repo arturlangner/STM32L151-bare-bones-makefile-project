@@ -1,0 +1,1 @@
+# stm32l152rb-bare-bones-with-make
